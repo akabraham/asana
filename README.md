@@ -25,6 +25,7 @@ This project is a work in progress. Here's what's currently available:
 - list_users
 - list_workspaces
 - rm_project_task
+- rm_tag_task
 - update_project
 - update_task
 - update_workspace
